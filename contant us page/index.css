@@ -1,0 +1,205 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+header{
+    width: 100vw;
+    height: 18vh;
+    margin: 0%;
+    padding: 0%;
+}
+.frame{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-brand{
+    color: blue;
+    margin: 40px 60px;
+    font-size: 40px;
+}
+
+
+ul{
+    list-style: none;
+}
+ul li{
+    display: inline-block;
+}
+
+.navbar-items li a{
+    border-radius: 50px;
+    text-decoration: none;
+    display: flex;
+    padding: 1px 10px;
+    font-size: 20px;
+    color: black;
+    
+}
+span{
+    color: blue;
+} 
+.frame li button{
+    width: 250px; 
+    height: 60px;
+    font-size: 25px;
+    margin: 13% 78px;
+    background-color: white;
+    color: blue;
+    border: 0.5px solid black;
+}
+.navbar{
+    height: 30px;
+    width: 100vw;
+    text-align: cente;
+    background-color: blue;
+}
+.navbar ul li a{
+    color: white;
+    padding: 10px 40px;
+    margin-right: px;
+}
+.hand{
+    height: 20vh;
+    background-image: url(./contact-image.jpg);
+
+}
+.hand h3{
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+/*.hand .button{
+    font-size: 30px;
+    color: black;
+    margin: 70px 530px;
+    border: 0px solid;   
+}*/
+.home{
+    height: 10vh;
+    width: 100vw;
+    background-color: brow;
+}
+.home ul li a{
+    color: black;
+    font-size: 30px;
+    padding: 20px 30px;
+}
+.map img{
+    height: 50vh;
+    width: 100vw;
+}
+.message2{
+    height: 70vh;
+    width: 100vw;
+}
+.info{
+    height: 50vh;
+    width: 50vw;
+    padding-left: 150px;
+}
+.four{
+    height: 20px;
+    width: 20px;
+    text-align: center;
+}
+
+.send{
+    height: 50vh;
+    width: 50vw;
+    padding-right: 100px;
+}
+
+.first{
+    height: 5vh;
+    width: 30vw;
+}
+.mail{
+    height: 5vh;
+    width: 30vw;
+}
+.box{
+    height: 15vh;
+    width: 30vw;
+
+}
+.last{
+    height: 40px;
+    width: 150px;
+    color: white;
+    background-color: rgb(3, 3, 97);
+}
+.send{
+    height: 40px;
+    width: 20%;
+    color: black;
+}
+
+.electro{
+    height: 50vh;
+    width: 100vw;
+    background-color: rgb(8, 8, 110);
+    color: white;
+    
+}
+
+
+.elect{
+    height: 50vh;
+    width: 33.5vw;
+    padding: 0px;
+    color: white;
+    padding: 0%;
+    position: relative;
+    left: 50px;
+    
+}
+.explore{
+    height: 50vh;
+    width: 33vw;
+    color: white;
+    position: relative;
+    top: 0;
+    left: 50px;
+}
+.Project li{
+    color: white;
+}
+.class{
+    height: 50vh;
+    width: 33.5vw;
+    padding: 20px;
+    color: white;
+    position: relative;
+    top: 30px;
+    left: 0px;
+}
+.newsletter{
+    height: 8vh;
+}
+.submit{
+    height: 8vh;
+    width: 20vw;
+}
+.submit{
+    height: 40px;
+    width: 20%;
+    background-color: rgb(5, 5, 104);
+    color: white;
+}
+.social{
+    height: 20px;
+    width: 25px;
+    text-align: center;
+    background-color: white;
+    color: white;
+}
+h2{
+    color: white;
+}
